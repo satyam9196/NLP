@@ -72,3 +72,8 @@ nlp-projects/
 
 ### 🔹 Capstone Projects
 - Real-world case studies applying
+
+- ## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
